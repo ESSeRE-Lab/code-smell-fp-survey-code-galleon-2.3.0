@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="apps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/apps/music.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/internet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/musicOrganizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/menu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/playlists.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/shoutcast.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/internetSlideshows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/podcasting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/weather.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/iTunes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/jukebox.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/jabber.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/desktop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/videocasting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/rss.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/traffic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/photos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/togo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/upcoming.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/movies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/apps/email.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/informa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/htmlparser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/dom4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/galleon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/WinService.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/sbbi-upnplib-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/forms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/hibernate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/yahoo_search.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/javazoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/cmgatejava120.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/jawin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/MHS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/browserlauncher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/hme-host-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/bananas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/widgets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/mediamanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/pja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/mp3dings.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/jax.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/jdai.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/smack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/jampal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/hme.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/jshortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/lib/xbean.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

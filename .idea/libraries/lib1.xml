@@ -1,0 +1,67 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jaxmeapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/htmlparser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/MHS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hme-host-sample.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mp3spi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/browserlauncher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mediamanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hme.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/derbynet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jampal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jshortcut.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/looks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/upcoming.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/cglib-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/forms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/dom4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-pool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/smackx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/wrapper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mp3dings.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/informa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/odmg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-betwixt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jawin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-jxpath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/smack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdai.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/pja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/derbytools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-net.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/yahoo_search.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/xbean.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/ehcache.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/tritonus_share.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jaxme2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/js.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/bananas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jaxmexs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hibernate.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-collections.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
