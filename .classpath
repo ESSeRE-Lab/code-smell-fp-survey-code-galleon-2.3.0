@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src/src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<accessrules>
+			<accessrule kind="accessible" pattern="com/sun/net/**"/>
+			<accessrule kind="accessible" pattern="com/sun/image/**"/>
+			<accessrule kind="accessible" pattern="sun/security/**"/>
+			<accessrule kind="accessible" pattern="sun/awt/**"/>
+		</accessrules>
+	</classpathentry>
 	<classpathentry kind="lib" path="src/lib/activation.jar"/>
 	<classpathentry kind="lib" path="src/lib/bananas.jar"/>
 	<classpathentry kind="lib" path="src/lib/browserlauncher.jar"/>
